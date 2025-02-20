@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Buz4l0PfAmA=",
+  "dgSpecHash": "zau5RQpiTsU=",
   "success": true,
   "projectFilePath": "C:\\Projects\\EmployeeManagementSystemRepo\\EmployeeManagementSystem\\Client\\Client.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\nikol\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\nikol\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.11\\microsoft.aspnetcore.authorization.8.0.11.nupkg.sha512",
     "C:\\Users\\nikol\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.11\\microsoft.aspnetcore.components.8.0.11.nupkg.sha512",
     "C:\\Users\\nikol\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\8.0.11\\microsoft.aspnetcore.components.analyzers.8.0.11.nupkg.sha512",

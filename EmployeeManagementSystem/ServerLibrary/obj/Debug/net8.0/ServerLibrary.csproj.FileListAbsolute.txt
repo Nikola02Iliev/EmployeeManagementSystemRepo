@@ -10,3 +10,9 @@ C:\Projects\EmployeeManagementSystemRepo\EmployeeManagementSystem\ServerLibrary\
 C:\Projects\EmployeeManagementSystemRepo\EmployeeManagementSystem\ServerLibrary\obj\Debug\net8.0\refint\ServerLibrary.dll
 C:\Projects\EmployeeManagementSystemRepo\EmployeeManagementSystem\ServerLibrary\obj\Debug\net8.0\ServerLibrary.pdb
 C:\Projects\EmployeeManagementSystemRepo\EmployeeManagementSystem\ServerLibrary\obj\Debug\net8.0\ref\ServerLibrary.dll
+C:\Projects\EmployeeManagementSystemRepo\EmployeeManagementSystem\ServerLibrary\bin\Debug\net8.0\ServerLibrary.runtimeconfig.json
+C:\Projects\EmployeeManagementSystemRepo\EmployeeManagementSystem\ServerLibrary\obj\Debug\net8.0\ServerLibrary.csproj.AssemblyReference.cache
+C:\Projects\EmployeeManagementSystemRepo\EmployeeManagementSystem\ServerLibrary\obj\Debug\net8.0\ServerLibrary.genruntimeconfig.cache
+C:\Projects\EmployeeManagementSystemRepo\EmployeeManagementSystem\ServerLibrary\bin\Debug\net8.0\SharedLibrary.dll
+C:\Projects\EmployeeManagementSystemRepo\EmployeeManagementSystem\ServerLibrary\bin\Debug\net8.0\SharedLibrary.pdb
+C:\Projects\EmployeeManagementSystemRepo\EmployeeManagementSystem\ServerLibrary\obj\Debug\net8.0\ServerLi.AF94C59E.Up2Date

@@ -10,3 +10,4 @@ C:\Projects\EmployeeManagementSystemRepo\EmployeeManagementSystem\SharedLibrary\
 C:\Projects\EmployeeManagementSystemRepo\EmployeeManagementSystem\SharedLibrary\obj\Debug\net8.0\refint\SharedLibrary.dll
 C:\Projects\EmployeeManagementSystemRepo\EmployeeManagementSystem\SharedLibrary\obj\Debug\net8.0\SharedLibrary.pdb
 C:\Projects\EmployeeManagementSystemRepo\EmployeeManagementSystem\SharedLibrary\obj\Debug\net8.0\ref\SharedLibrary.dll
+C:\Projects\EmployeeManagementSystemRepo\EmployeeManagementSystem\SharedLibrary\obj\Debug\net8.0\SharedLibrary.csproj.AssemblyReference.cache

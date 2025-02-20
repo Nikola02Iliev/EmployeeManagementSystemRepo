@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Projects\\EmployeeManagementSystemRepo\\EmployeeManagementSystem\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\EmployeeManagementSystemRepo\\EmployeeManagementSystem\\ServerLibrary\\Migrations\\20250220150831_First.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ServerLibrary\\Migrations\\20250220150831_First.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 487,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,6 +63,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250220150831_First.cs",
+              "DocumentMoniker": "C:\\Projects\\EmployeeManagementSystemRepo\\EmployeeManagementSystem\\ServerLibrary\\Migrations\\20250220150831_First.cs",
+              "RelativeDocumentMoniker": "ServerLibrary\\Migrations\\20250220150831_First.cs",
+              "ToolTip": "C:\\Projects\\EmployeeManagementSystemRepo\\EmployeeManagementSystem\\ServerLibrary\\Migrations\\20250220150831_First.cs",
+              "RelativeToolTip": "ServerLibrary\\Migrations\\20250220150831_First.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T15:08:31.986Z",
+              "EditorCaption": ""
             }
           ]
         }

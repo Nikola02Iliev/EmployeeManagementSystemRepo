@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Client",
   "resources": {
-    "hash": "sha256-17GyLPA38q5O8eeymg+BDfwxhOnGjw2CGr76z6wZgFs=",
+    "hash": "sha256-Vqe/m9lw+8smqtSP2BEzN+sQH8BjAb+tUsQe5kK0xiQ=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-VdKq87/z5NIxZKmuM+fv38XF+RcEb/bg3jVBwQSfwP4="
     },
@@ -18,6 +18,7 @@
     },
     "coreAssembly": {},
     "assembly": {
+      "AutoMapper.wasm": "sha256-szmkSB5fPdjK2TpIYWEG1ESlm4/hlclUj8URR7+K+xI=",
       "Microsoft.AspNetCore.Authorization.wasm": "sha256-W1OqRV83imd3SG/v4PAlCa5m/3RA9n5ysXT7G46jKKc=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-BbzyjRS+gcf0R8v27CSNdTK4vm9XoqKz4NEhk7LK+dY=",
       "Microsoft.AspNetCore.Components.Forms.wasm": "sha256-uygu36HN/qUHLMopvhHgNiRvJHtoPqdkgtGxxdr1nY8=",
@@ -209,14 +210,14 @@
       "mscorlib.wasm": "sha256-04e4k5XU8HWGB/dq/2+j84xzzGPflTs0IYWI0OxogVc=",
       "netstandard.wasm": "sha256-gnGZURPnoSmjXuYNCOJi5tt8qn2LRImWgue1Ru3/TDQ=",
       "System.Private.CoreLib.wasm": "sha256-6w3jYr0arcp8jnt4aeqh+AmqrLA6q7jl9rQYAwLzE0M=",
-      "ClientLibrary.wasm": "sha256-o1UU/3RjOmxMlMIGhMs4CRgHhi9GQUPS2yp+B+ob3+M=",
-      "SharedLibrary.wasm": "sha256-doUl+AqiAlZ6lZUXUT/+os+BNsX7tRxvGWQ7m/JcKtc=",
-      "Client.wasm": "sha256-NP1WTWQR1S5yKk0FyfkAT1yJ0CGE7di1aB4haGP3+kY="
+      "ClientLibrary.wasm": "sha256-ZKKnBN7BT396YmImW5EzENHUSOp8XfmR1OPn4uNM4XQ=",
+      "SharedLibrary.wasm": "sha256-rKtQbYJeD3LUlcS5IoB3ah9EBZjqJLBLP7+seYrkLas=",
+      "Client.wasm": "sha256-otzoh9YsTHZJjPTkIjaAMtqOARCVcAEztAS81L5ge3U="
     },
     "pdb": {
-      "ClientLibrary.pdb": "sha256-WQOjNdHddp4BWLSiCBMAfCiRgDgFcJOVvx1BBFTYDiU=",
-      "SharedLibrary.pdb": "sha256-uEWGZtcKz7zYYv38f6SVJU1qII7Q05iblroOfszDcH8=",
-      "Client.pdb": "sha256-83qYrCyZC6Lo6MI0ExHVsBO/Us2A2JRfi9MKQdoQ5Bo="
+      "ClientLibrary.pdb": "sha256-wV27RdmrIV6LIzUx++lP54549Ug+fpIxzd2OXvm6mmI=",
+      "SharedLibrary.pdb": "sha256-voMcftsZpEr8FvD19PJllWfw9xdxTphVZ3wBRMj/tqo=",
+      "Client.pdb": "sha256-kQWHw70Y0zKHzR3DfN0snBcRJe5jcPoJs3a4dyrS5NM="
     }
   },
   "cacheBootResources": true,
