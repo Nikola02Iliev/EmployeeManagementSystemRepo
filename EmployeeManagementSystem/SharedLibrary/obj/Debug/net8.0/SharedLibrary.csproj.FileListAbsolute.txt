@@ -1,0 +1,12 @@
+C:\Projects\EmployeeManagementSystemRepo\EmployeeManagementSystem\SharedLibrary\bin\Debug\net8.0\SharedLibrary.deps.json
+C:\Projects\EmployeeManagementSystemRepo\EmployeeManagementSystem\SharedLibrary\bin\Debug\net8.0\SharedLibrary.dll
+C:\Projects\EmployeeManagementSystemRepo\EmployeeManagementSystem\SharedLibrary\bin\Debug\net8.0\SharedLibrary.pdb
+C:\Projects\EmployeeManagementSystemRepo\EmployeeManagementSystem\SharedLibrary\obj\Debug\net8.0\SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\EmployeeManagementSystemRepo\EmployeeManagementSystem\SharedLibrary\obj\Debug\net8.0\SharedLibrary.AssemblyInfoInputs.cache
+C:\Projects\EmployeeManagementSystemRepo\EmployeeManagementSystem\SharedLibrary\obj\Debug\net8.0\SharedLibrary.AssemblyInfo.cs
+C:\Projects\EmployeeManagementSystemRepo\EmployeeManagementSystem\SharedLibrary\obj\Debug\net8.0\SharedLibrary.csproj.CoreCompileInputs.cache
+C:\Projects\EmployeeManagementSystemRepo\EmployeeManagementSystem\SharedLibrary\obj\Debug\net8.0\SharedLibrary.sourcelink.json
+C:\Projects\EmployeeManagementSystemRepo\EmployeeManagementSystem\SharedLibrary\obj\Debug\net8.0\SharedLibrary.dll
+C:\Projects\EmployeeManagementSystemRepo\EmployeeManagementSystem\SharedLibrary\obj\Debug\net8.0\refint\SharedLibrary.dll
+C:\Projects\EmployeeManagementSystemRepo\EmployeeManagementSystem\SharedLibrary\obj\Debug\net8.0\SharedLibrary.pdb
+C:\Projects\EmployeeManagementSystemRepo\EmployeeManagementSystem\SharedLibrary\obj\Debug\net8.0\ref\SharedLibrary.dll

@@ -1,0 +1,12 @@
+C:\Projects\EmployeeManagementSystemRepo\EmployeeManagementSystem\ServerLibrary\bin\Debug\net8.0\ServerLibrary.deps.json
+C:\Projects\EmployeeManagementSystemRepo\EmployeeManagementSystem\ServerLibrary\bin\Debug\net8.0\ServerLibrary.dll
+C:\Projects\EmployeeManagementSystemRepo\EmployeeManagementSystem\ServerLibrary\bin\Debug\net8.0\ServerLibrary.pdb
+C:\Projects\EmployeeManagementSystemRepo\EmployeeManagementSystem\ServerLibrary\obj\Debug\net8.0\ServerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\EmployeeManagementSystemRepo\EmployeeManagementSystem\ServerLibrary\obj\Debug\net8.0\ServerLibrary.AssemblyInfoInputs.cache
+C:\Projects\EmployeeManagementSystemRepo\EmployeeManagementSystem\ServerLibrary\obj\Debug\net8.0\ServerLibrary.AssemblyInfo.cs
+C:\Projects\EmployeeManagementSystemRepo\EmployeeManagementSystem\ServerLibrary\obj\Debug\net8.0\ServerLibrary.csproj.CoreCompileInputs.cache
+C:\Projects\EmployeeManagementSystemRepo\EmployeeManagementSystem\ServerLibrary\obj\Debug\net8.0\ServerLibrary.sourcelink.json
+C:\Projects\EmployeeManagementSystemRepo\EmployeeManagementSystem\ServerLibrary\obj\Debug\net8.0\ServerLibrary.dll
+C:\Projects\EmployeeManagementSystemRepo\EmployeeManagementSystem\ServerLibrary\obj\Debug\net8.0\refint\ServerLibrary.dll
+C:\Projects\EmployeeManagementSystemRepo\EmployeeManagementSystem\ServerLibrary\obj\Debug\net8.0\ServerLibrary.pdb
+C:\Projects\EmployeeManagementSystemRepo\EmployeeManagementSystem\ServerLibrary\obj\Debug\net8.0\ref\ServerLibrary.dll
