@@ -1,6 +1,6 @@
 ﻿namespace SharedLibrary.DTOs
 {
-    public class Login : AccountBase
+    public class LoginDTO : AccountBaseDTO
     {
     }
 }

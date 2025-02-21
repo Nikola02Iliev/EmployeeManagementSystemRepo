@@ -2,7 +2,7 @@
 
 namespace SharedLibrary.DTOs
 {
-    public class AccountBase
+    public class AccountBaseDTO
     {
         [DataType(DataType.EmailAddress)]
         [EmailAddress]

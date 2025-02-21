@@ -1,5 +1,8 @@
 using Microsoft.EntityFrameworkCore;
 using ServerLibrary.Context;
+using ServerLibrary.Helpers;
+using ServerLibrary.Repositorities.Contracts;
+using ServerLibrary.Repositorities.Implementations;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -14,7 +17,15 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<AppDBContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("Default") ?? throw new InvalidOperationException("Connection not found!")));
 
+//Dependency Injection
+builder.Services.AddScoped<IUserAccountRepository, UserAccountRepository>();
+
+//JWT
+builder.Services.Configure<JwtSection>(builder.Configuration.GetSection("JwtSection"));
+
 var app = builder.Build();
+
+
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())

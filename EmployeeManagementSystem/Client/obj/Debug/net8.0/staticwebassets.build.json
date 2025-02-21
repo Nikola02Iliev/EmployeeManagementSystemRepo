@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "lAubVInWWzcuzyb+LcWyJ05PFQDPYmSJwSCwMXSRHFU=",
+  "Hash": "dJfrUdaozVnZc0oEQaYz468N1XSpeUHDwTjA9/urgBs=",
   "Source": "Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -52,8 +52,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "iptxl9oqsf",
-      "Integrity": "pg2Gb9osZIQnnPi3e1RJB+cLSG4bm7g1y+SxrGW9j94=",
+      "Fingerprint": "tqwaponkuv",
+      "Integrity": "u7L2BbtI1Kqnm6xXLZnciYe8sRjGAca0PVz5rEaSo2Q=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net8.0\\blazor.boot.json"
@@ -94,8 +94,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "7er3p5680h",
-      "Integrity": "kQWHw70Y0zKHzR3DfN0snBcRJe5jcPoJs3a4dyrS5NM=",
+      "Fingerprint": "qx592wa2jb",
+      "Integrity": "Tmiw4NpdFst4E8lW9KCU5Nq1FA7Os1xAvmSCCZ5obgw=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net8.0\\Client.pdb"
@@ -115,8 +115,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "20aocqi55x",
-      "Integrity": "otzoh9YsTHZJjPTkIjaAMtqOARCVcAEztAS81L5ge3U=",
+      "Fingerprint": "qrfl8h4o0s",
+      "Integrity": "Fm/DnWxOiK0wKchK0rrFqS4Uz2j67/DaZ6b8xkgnEuQ=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Projects\\EmployeeManagementSystemRepo\\EmployeeManagementSystem\\Client\\obj\\Debug\\net8.0\\webcil\\Client.wasm"
@@ -997,8 +997,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "a23bsviwph",
-      "Integrity": "voMcftsZpEr8FvD19PJllWfw9xdxTphVZ3wBRMj/tqo=",
+      "Fingerprint": "74srhjiiab",
+      "Integrity": "6bsIZHPqU0m87c/BfWxLVwaghhRoyxVX8iZqY7AJ/A4=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Projects\\EmployeeManagementSystemRepo\\EmployeeManagementSystem\\SharedLibrary\\bin\\Debug\\net8.0\\SharedLibrary.pdb"
@@ -1018,8 +1018,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "wtaqzilbr6",
-      "Integrity": "rKtQbYJeD3LUlcS5IoB3ah9EBZjqJLBLP7+seYrkLas=",
+      "Fingerprint": "smlbexaxy4",
+      "Integrity": "RBT9r9fFVldzJwmTBuPuNQ6wZrhfeJMP2qJnd9O5lS8=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Projects\\EmployeeManagementSystemRepo\\EmployeeManagementSystem\\Client\\obj\\Debug\\net8.0\\webcil\\SharedLibrary.wasm"
@@ -4427,7 +4427,7 @@
       "OriginalItemSpec": "C:\\Projects\\EmployeeManagementSystemRepo\\EmployeeManagementSystem\\Client\\obj\\Debug\\net8.0\\webcil\\WindowsBase.wasm"
     },
     {
-      "Identity": "C:\\Projects\\EmployeeManagementSystemRepo\\EmployeeManagementSystem\\Client\\obj\\Debug\\net8.0\\compressed\\0kih5qk3hm-iptxl9oqsf.gz",
+      "Identity": "C:\\Projects\\EmployeeManagementSystemRepo\\EmployeeManagementSystem\\Client\\obj\\Debug\\net8.0\\compressed\\0kih5qk3hm-tqwaponkuv.gz",
       "SourceId": "Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Projects\\EmployeeManagementSystemRepo\\EmployeeManagementSystem\\Client\\obj\\Debug\\net8.0\\compressed\\",
@@ -4441,8 +4441,8 @@
       "RelatedAsset": "C:\\Projects\\EmployeeManagementSystemRepo\\EmployeeManagementSystem\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "3nbzd6i68t",
-      "Integrity": "r8rmQCvpL1g9o0NF0J8mSPsqWUpA90Y+8uJKi1n2zRo=",
+      "Fingerprint": "7b9fpg3r9d",
+      "Integrity": "HTr/51r1jTWkEvoIfCkD7kEqBEYC9CP/I+ScbfBhiio=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Projects\\EmployeeManagementSystemRepo\\EmployeeManagementSystem\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -4511,7 +4511,7 @@
       "OriginalItemSpec": "C:\\Projects\\EmployeeManagementSystemRepo\\EmployeeManagementSystem\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\AutoMapper.wasm"
     },
     {
-      "Identity": "C:\\Projects\\EmployeeManagementSystemRepo\\EmployeeManagementSystem\\Client\\obj\\Debug\\net8.0\\compressed\\11jckmtcmx-wtaqzilbr6.gz",
+      "Identity": "C:\\Projects\\EmployeeManagementSystemRepo\\EmployeeManagementSystem\\Client\\obj\\Debug\\net8.0\\compressed\\11jckmtcmx-smlbexaxy4.gz",
       "SourceId": "Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Projects\\EmployeeManagementSystemRepo\\EmployeeManagementSystem\\Client\\obj\\Debug\\net8.0\\compressed\\",
@@ -4525,8 +4525,8 @@
       "RelatedAsset": "C:\\Projects\\EmployeeManagementSystemRepo\\EmployeeManagementSystem\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\SharedLibrary.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "kag10tv995",
-      "Integrity": "RDOaSChA04LlCzQqbstr2Q3ou3YzMNQAyNmcB04psJY=",
+      "Fingerprint": "yar2h4bozq",
+      "Integrity": "uuf2WikNpKE2dSqsRJ1lq/qZVg9ltPKyjDIIHbgoFtI=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Projects\\EmployeeManagementSystemRepo\\EmployeeManagementSystem\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\SharedLibrary.wasm"
@@ -6863,7 +6863,7 @@
       "OriginalItemSpec": "C:\\Projects\\EmployeeManagementSystemRepo\\EmployeeManagementSystem\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Linq.Expressions.wasm"
     },
     {
-      "Identity": "C:\\Projects\\EmployeeManagementSystemRepo\\EmployeeManagementSystem\\Client\\obj\\Debug\\net8.0\\compressed\\kb90l4x90i-20aocqi55x.gz",
+      "Identity": "C:\\Projects\\EmployeeManagementSystemRepo\\EmployeeManagementSystem\\Client\\obj\\Debug\\net8.0\\compressed\\kb90l4x90i-qrfl8h4o0s.gz",
       "SourceId": "Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Projects\\EmployeeManagementSystemRepo\\EmployeeManagementSystem\\Client\\obj\\Debug\\net8.0\\compressed\\",
@@ -6877,8 +6877,8 @@
       "RelatedAsset": "C:\\Projects\\EmployeeManagementSystemRepo\\EmployeeManagementSystem\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Client.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "8my8y1yo44",
-      "Integrity": "QIeyOl0xROdi8WoxWaRU6VcGr96ijuHvLqDbrEl/JG4=",
+      "Fingerprint": "h3iu7d1hom",
+      "Integrity": "4z07W3WT0Kz8qej/ym2dTN79Ytab/fPQa7n0dj1zHJk=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Projects\\EmployeeManagementSystemRepo\\EmployeeManagementSystem\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Client.wasm"
@@ -7136,7 +7136,7 @@
       "OriginalItemSpec": "C:\\Projects\\EmployeeManagementSystemRepo\\EmployeeManagementSystem\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Runtime.Serialization.Json.wasm"
     },
     {
-      "Identity": "C:\\Projects\\EmployeeManagementSystemRepo\\EmployeeManagementSystem\\Client\\obj\\Debug\\net8.0\\compressed\\nb1upix0ss-a23bsviwph.gz",
+      "Identity": "C:\\Projects\\EmployeeManagementSystemRepo\\EmployeeManagementSystem\\Client\\obj\\Debug\\net8.0\\compressed\\nb1upix0ss-74srhjiiab.gz",
       "SourceId": "Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Projects\\EmployeeManagementSystemRepo\\EmployeeManagementSystem\\Client\\obj\\Debug\\net8.0\\compressed\\",
@@ -7150,8 +7150,8 @@
       "RelatedAsset": "C:\\Projects\\EmployeeManagementSystemRepo\\EmployeeManagementSystem\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\SharedLibrary.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "a1ui0jkgdr",
-      "Integrity": "jtQBXLVAEONHKtgw8s2jFbapIW7X6YpCYC4qJ1zUfso=",
+      "Fingerprint": "rhse659dlt",
+      "Integrity": "v1FDuDkjX51vdCfl5gRKJiOijehhEEdAY2zZ3uz7B5A=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Projects\\EmployeeManagementSystemRepo\\EmployeeManagementSystem\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\SharedLibrary.pdb"
@@ -7199,7 +7199,7 @@
       "OriginalItemSpec": "C:\\Projects\\EmployeeManagementSystemRepo\\EmployeeManagementSystem\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Private.CoreLib.wasm"
     },
     {
-      "Identity": "C:\\Projects\\EmployeeManagementSystemRepo\\EmployeeManagementSystem\\Client\\obj\\Debug\\net8.0\\compressed\\nrce2f7bjz-7er3p5680h.gz",
+      "Identity": "C:\\Projects\\EmployeeManagementSystemRepo\\EmployeeManagementSystem\\Client\\obj\\Debug\\net8.0\\compressed\\nrce2f7bjz-qx592wa2jb.gz",
       "SourceId": "Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Projects\\EmployeeManagementSystemRepo\\EmployeeManagementSystem\\Client\\obj\\Debug\\net8.0\\compressed\\",
@@ -7213,8 +7213,8 @@
       "RelatedAsset": "C:\\Projects\\EmployeeManagementSystemRepo\\EmployeeManagementSystem\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Client.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "m9lgwylmuh",
-      "Integrity": "VnjOvb0S06T7cviFqsaKqvjP8aTawgFeZxbFNGB5RS4=",
+      "Fingerprint": "n767yvzlq2",
+      "Integrity": "M8mSvYLwOSYeq9HXiBweQHIbzPbJqxguboA9yXP+bAU=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Projects\\EmployeeManagementSystemRepo\\EmployeeManagementSystem\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Client.pdb"
@@ -9183,11 +9183,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pg2Gb9osZIQnnPi3e1RJB+cLSG4bm7g1y+SxrGW9j94=\""
+          "Value": "\"u7L2BbtI1Kqnm6xXLZnciYe8sRjGAca0PVz5rEaSo2Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 15:08:27 GMT"
+          "Value": "Fri, 21 Feb 2025 07:27:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9197,18 +9197,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pg2Gb9osZIQnnPi3e1RJB+cLSG4bm7g1y+SxrGW9j94="
+          "Value": "sha256-u7L2BbtI1Kqnm6xXLZnciYe8sRjGAca0PVz5rEaSo2Q="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Projects\\EmployeeManagementSystemRepo\\EmployeeManagementSystem\\Client\\obj\\Debug\\net8.0\\compressed\\0kih5qk3hm-iptxl9oqsf.gz",
+      "AssetFile": "C:\\Projects\\EmployeeManagementSystemRepo\\EmployeeManagementSystem\\Client\\obj\\Debug\\net8.0\\compressed\\0kih5qk3hm-tqwaponkuv.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000110497238"
+          "Quality": "0.000110411836"
         }
       ],
       "ResponseHeaders": [
@@ -9218,15 +9218,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9049"
+          "Value": "9056"
         },
         {
           "Name": "ETag",
-          "Value": "\"r8rmQCvpL1g9o0NF0J8mSPsqWUpA90Y+8uJKi1n2zRo=\""
+          "Value": "\"HTr/51r1jTWkEvoIfCkD7kEqBEYC9CP/I+ScbfBhiio=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 14:52:07 GMT"
+          "Value": "Thu, 20 Feb 2025 21:41:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9246,19 +9246,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"pg2Gb9osZIQnnPi3e1RJB+cLSG4bm7g1y+SxrGW9j94=\""
+          "Value": "W/\"u7L2BbtI1Kqnm6xXLZnciYe8sRjGAca0PVz5rEaSo2Q=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pg2Gb9osZIQnnPi3e1RJB+cLSG4bm7g1y+SxrGW9j94="
+          "Value": "sha256-u7L2BbtI1Kqnm6xXLZnciYe8sRjGAca0PVz5rEaSo2Q="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Projects\\EmployeeManagementSystemRepo\\EmployeeManagementSystem\\Client\\obj\\Debug\\net8.0\\compressed\\0kih5qk3hm-iptxl9oqsf.gz",
+      "AssetFile": "C:\\Projects\\EmployeeManagementSystemRepo\\EmployeeManagementSystem\\Client\\obj\\Debug\\net8.0\\compressed\\0kih5qk3hm-tqwaponkuv.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9267,7 +9267,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9049"
+          "Value": "9056"
         },
         {
           "Name": "Content-Type",
@@ -9275,11 +9275,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"r8rmQCvpL1g9o0NF0J8mSPsqWUpA90Y+8uJKi1n2zRo=\""
+          "Value": "\"HTr/51r1jTWkEvoIfCkD7kEqBEYC9CP/I+ScbfBhiio=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 14:52:07 GMT"
+          "Value": "Thu, 20 Feb 2025 21:41:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9297,7 +9297,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-r8rmQCvpL1g9o0NF0J8mSPsqWUpA90Y+8uJKi1n2zRo="
+          "Value": "sha256-HTr/51r1jTWkEvoIfCkD7kEqBEYC9CP/I+ScbfBhiio="
         }
       ]
     },
@@ -9457,11 +9457,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"kQWHw70Y0zKHzR3DfN0snBcRJe5jcPoJs3a4dyrS5NM=\""
+          "Value": "\"Tmiw4NpdFst4E8lW9KCU5Nq1FA7Os1xAvmSCCZ5obgw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 15:08:27 GMT"
+          "Value": "Fri, 21 Feb 2025 07:27:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9471,18 +9471,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-kQWHw70Y0zKHzR3DfN0snBcRJe5jcPoJs3a4dyrS5NM="
+          "Value": "sha256-Tmiw4NpdFst4E8lW9KCU5Nq1FA7Os1xAvmSCCZ5obgw="
         }
       ]
     },
     {
       "Route": "_framework/Client.pdb",
-      "AssetFile": "C:\\Projects\\EmployeeManagementSystemRepo\\EmployeeManagementSystem\\Client\\obj\\Debug\\net8.0\\compressed\\nrce2f7bjz-7er3p5680h.gz",
+      "AssetFile": "C:\\Projects\\EmployeeManagementSystemRepo\\EmployeeManagementSystem\\Client\\obj\\Debug\\net8.0\\compressed\\nrce2f7bjz-qx592wa2jb.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000058459020"
+          "Quality": "0.000058455603"
         }
       ],
       "ResponseHeaders": [
@@ -9492,15 +9492,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "17105"
+          "Value": "17106"
         },
         {
           "Name": "ETag",
-          "Value": "\"VnjOvb0S06T7cviFqsaKqvjP8aTawgFeZxbFNGB5RS4=\""
+          "Value": "\"M8mSvYLwOSYeq9HXiBweQHIbzPbJqxguboA9yXP+bAU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 14:52:06 GMT"
+          "Value": "Thu, 20 Feb 2025 21:41:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9520,19 +9520,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"kQWHw70Y0zKHzR3DfN0snBcRJe5jcPoJs3a4dyrS5NM=\""
+          "Value": "W/\"Tmiw4NpdFst4E8lW9KCU5Nq1FA7Os1xAvmSCCZ5obgw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-kQWHw70Y0zKHzR3DfN0snBcRJe5jcPoJs3a4dyrS5NM="
+          "Value": "sha256-Tmiw4NpdFst4E8lW9KCU5Nq1FA7Os1xAvmSCCZ5obgw="
         }
       ]
     },
     {
       "Route": "_framework/Client.pdb.gz",
-      "AssetFile": "C:\\Projects\\EmployeeManagementSystemRepo\\EmployeeManagementSystem\\Client\\obj\\Debug\\net8.0\\compressed\\nrce2f7bjz-7er3p5680h.gz",
+      "AssetFile": "C:\\Projects\\EmployeeManagementSystemRepo\\EmployeeManagementSystem\\Client\\obj\\Debug\\net8.0\\compressed\\nrce2f7bjz-qx592wa2jb.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9541,7 +9541,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "17105"
+          "Value": "17106"
         },
         {
           "Name": "Content-Type",
@@ -9549,11 +9549,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"VnjOvb0S06T7cviFqsaKqvjP8aTawgFeZxbFNGB5RS4=\""
+          "Value": "\"M8mSvYLwOSYeq9HXiBweQHIbzPbJqxguboA9yXP+bAU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 14:52:06 GMT"
+          "Value": "Thu, 20 Feb 2025 21:41:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9571,7 +9571,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-VnjOvb0S06T7cviFqsaKqvjP8aTawgFeZxbFNGB5RS4="
+          "Value": "sha256-M8mSvYLwOSYeq9HXiBweQHIbzPbJqxguboA9yXP+bAU="
         }
       ]
     },
@@ -9594,11 +9594,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"otzoh9YsTHZJjPTkIjaAMtqOARCVcAEztAS81L5ge3U=\""
+          "Value": "\"Fm/DnWxOiK0wKchK0rrFqS4Uz2j67/DaZ6b8xkgnEuQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 15:08:27 GMT"
+          "Value": "Fri, 21 Feb 2025 07:27:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9608,18 +9608,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-otzoh9YsTHZJjPTkIjaAMtqOARCVcAEztAS81L5ge3U="
+          "Value": "sha256-Fm/DnWxOiK0wKchK0rrFqS4Uz2j67/DaZ6b8xkgnEuQ="
         }
       ]
     },
     {
       "Route": "_framework/Client.wasm",
-      "AssetFile": "C:\\Projects\\EmployeeManagementSystemRepo\\EmployeeManagementSystem\\Client\\obj\\Debug\\net8.0\\compressed\\kb90l4x90i-20aocqi55x.gz",
+      "AssetFile": "C:\\Projects\\EmployeeManagementSystemRepo\\EmployeeManagementSystem\\Client\\obj\\Debug\\net8.0\\compressed\\kb90l4x90i-qrfl8h4o0s.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000131769667"
+          "Quality": "0.000131804402"
         }
       ],
       "ResponseHeaders": [
@@ -9629,15 +9629,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7588"
+          "Value": "7586"
         },
         {
           "Name": "ETag",
-          "Value": "\"QIeyOl0xROdi8WoxWaRU6VcGr96ijuHvLqDbrEl/JG4=\""
+          "Value": "\"4z07W3WT0Kz8qej/ym2dTN79Ytab/fPQa7n0dj1zHJk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 14:52:06 GMT"
+          "Value": "Thu, 20 Feb 2025 21:41:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9657,19 +9657,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"otzoh9YsTHZJjPTkIjaAMtqOARCVcAEztAS81L5ge3U=\""
+          "Value": "W/\"Fm/DnWxOiK0wKchK0rrFqS4Uz2j67/DaZ6b8xkgnEuQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-otzoh9YsTHZJjPTkIjaAMtqOARCVcAEztAS81L5ge3U="
+          "Value": "sha256-Fm/DnWxOiK0wKchK0rrFqS4Uz2j67/DaZ6b8xkgnEuQ="
         }
       ]
     },
     {
       "Route": "_framework/Client.wasm.gz",
-      "AssetFile": "C:\\Projects\\EmployeeManagementSystemRepo\\EmployeeManagementSystem\\Client\\obj\\Debug\\net8.0\\compressed\\kb90l4x90i-20aocqi55x.gz",
+      "AssetFile": "C:\\Projects\\EmployeeManagementSystemRepo\\EmployeeManagementSystem\\Client\\obj\\Debug\\net8.0\\compressed\\kb90l4x90i-qrfl8h4o0s.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9678,7 +9678,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7588"
+          "Value": "7586"
         },
         {
           "Name": "Content-Type",
@@ -9686,11 +9686,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"QIeyOl0xROdi8WoxWaRU6VcGr96ijuHvLqDbrEl/JG4=\""
+          "Value": "\"4z07W3WT0Kz8qej/ym2dTN79Ytab/fPQa7n0dj1zHJk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 14:52:06 GMT"
+          "Value": "Thu, 20 Feb 2025 21:41:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9708,7 +9708,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-QIeyOl0xROdi8WoxWaRU6VcGr96ijuHvLqDbrEl/JG4="
+          "Value": "sha256-4z07W3WT0Kz8qej/ym2dTN79Ytab/fPQa7n0dj1zHJk="
         }
       ]
     },
@@ -15340,7 +15340,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13496"
+          "Value": "14796"
         },
         {
           "Name": "Content-Type",
@@ -15348,11 +15348,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"voMcftsZpEr8FvD19PJllWfw9xdxTphVZ3wBRMj/tqo=\""
+          "Value": "\"6bsIZHPqU0m87c/BfWxLVwaghhRoyxVX8iZqY7AJ/A4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 15:08:22 GMT"
+          "Value": "Fri, 21 Feb 2025 07:27:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15362,18 +15362,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-voMcftsZpEr8FvD19PJllWfw9xdxTphVZ3wBRMj/tqo="
+          "Value": "sha256-6bsIZHPqU0m87c/BfWxLVwaghhRoyxVX8iZqY7AJ/A4="
         }
       ]
     },
     {
       "Route": "_framework/SharedLibrary.pdb",
-      "AssetFile": "C:\\Projects\\EmployeeManagementSystemRepo\\EmployeeManagementSystem\\Client\\obj\\Debug\\net8.0\\compressed\\nb1upix0ss-a23bsviwph.gz",
+      "AssetFile": "C:\\Projects\\EmployeeManagementSystemRepo\\EmployeeManagementSystem\\Client\\obj\\Debug\\net8.0\\compressed\\nb1upix0ss-74srhjiiab.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000131856540"
+          "Quality": "0.000121477162"
         }
       ],
       "ResponseHeaders": [
@@ -15383,15 +15383,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7583"
+          "Value": "8231"
         },
         {
           "Name": "ETag",
-          "Value": "\"jtQBXLVAEONHKtgw8s2jFbapIW7X6YpCYC4qJ1zUfso=\""
+          "Value": "\"v1FDuDkjX51vdCfl5gRKJiOijehhEEdAY2zZ3uz7B5A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 14:52:03 GMT"
+          "Value": "Thu, 20 Feb 2025 21:41:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15411,19 +15411,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"voMcftsZpEr8FvD19PJllWfw9xdxTphVZ3wBRMj/tqo=\""
+          "Value": "W/\"6bsIZHPqU0m87c/BfWxLVwaghhRoyxVX8iZqY7AJ/A4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-voMcftsZpEr8FvD19PJllWfw9xdxTphVZ3wBRMj/tqo="
+          "Value": "sha256-6bsIZHPqU0m87c/BfWxLVwaghhRoyxVX8iZqY7AJ/A4="
         }
       ]
     },
     {
       "Route": "_framework/SharedLibrary.pdb.gz",
-      "AssetFile": "C:\\Projects\\EmployeeManagementSystemRepo\\EmployeeManagementSystem\\Client\\obj\\Debug\\net8.0\\compressed\\nb1upix0ss-a23bsviwph.gz",
+      "AssetFile": "C:\\Projects\\EmployeeManagementSystemRepo\\EmployeeManagementSystem\\Client\\obj\\Debug\\net8.0\\compressed\\nb1upix0ss-74srhjiiab.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -15432,7 +15432,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7583"
+          "Value": "8231"
         },
         {
           "Name": "Content-Type",
@@ -15440,11 +15440,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jtQBXLVAEONHKtgw8s2jFbapIW7X6YpCYC4qJ1zUfso=\""
+          "Value": "\"v1FDuDkjX51vdCfl5gRKJiOijehhEEdAY2zZ3uz7B5A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 14:52:03 GMT"
+          "Value": "Thu, 20 Feb 2025 21:41:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15462,7 +15462,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-jtQBXLVAEONHKtgw8s2jFbapIW7X6YpCYC4qJ1zUfso="
+          "Value": "sha256-v1FDuDkjX51vdCfl5gRKJiOijehhEEdAY2zZ3uz7B5A="
         }
       ]
     },
@@ -15477,7 +15477,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9493"
+          "Value": "14101"
         },
         {
           "Name": "Content-Type",
@@ -15485,11 +15485,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rKtQbYJeD3LUlcS5IoB3ah9EBZjqJLBLP7+seYrkLas=\""
+          "Value": "\"RBT9r9fFVldzJwmTBuPuNQ6wZrhfeJMP2qJnd9O5lS8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 15:08:27 GMT"
+          "Value": "Fri, 21 Feb 2025 07:27:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15499,18 +15499,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-rKtQbYJeD3LUlcS5IoB3ah9EBZjqJLBLP7+seYrkLas="
+          "Value": "sha256-RBT9r9fFVldzJwmTBuPuNQ6wZrhfeJMP2qJnd9O5lS8="
         }
       ]
     },
     {
       "Route": "_framework/SharedLibrary.wasm",
-      "AssetFile": "C:\\Projects\\EmployeeManagementSystemRepo\\EmployeeManagementSystem\\Client\\obj\\Debug\\net8.0\\compressed\\11jckmtcmx-wtaqzilbr6.gz",
+      "AssetFile": "C:\\Projects\\EmployeeManagementSystemRepo\\EmployeeManagementSystem\\Client\\obj\\Debug\\net8.0\\compressed\\11jckmtcmx-smlbexaxy4.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000260688217"
+          "Quality": "0.000166527893"
         }
       ],
       "ResponseHeaders": [
@@ -15520,15 +15520,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3835"
+          "Value": "6004"
         },
         {
           "Name": "ETag",
-          "Value": "\"RDOaSChA04LlCzQqbstr2Q3ou3YzMNQAyNmcB04psJY=\""
+          "Value": "\"uuf2WikNpKE2dSqsRJ1lq/qZVg9ltPKyjDIIHbgoFtI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 14:52:06 GMT"
+          "Value": "Thu, 20 Feb 2025 21:41:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15548,19 +15548,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"rKtQbYJeD3LUlcS5IoB3ah9EBZjqJLBLP7+seYrkLas=\""
+          "Value": "W/\"RBT9r9fFVldzJwmTBuPuNQ6wZrhfeJMP2qJnd9O5lS8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-rKtQbYJeD3LUlcS5IoB3ah9EBZjqJLBLP7+seYrkLas="
+          "Value": "sha256-RBT9r9fFVldzJwmTBuPuNQ6wZrhfeJMP2qJnd9O5lS8="
         }
       ]
     },
     {
       "Route": "_framework/SharedLibrary.wasm.gz",
-      "AssetFile": "C:\\Projects\\EmployeeManagementSystemRepo\\EmployeeManagementSystem\\Client\\obj\\Debug\\net8.0\\compressed\\11jckmtcmx-wtaqzilbr6.gz",
+      "AssetFile": "C:\\Projects\\EmployeeManagementSystemRepo\\EmployeeManagementSystem\\Client\\obj\\Debug\\net8.0\\compressed\\11jckmtcmx-smlbexaxy4.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -15569,7 +15569,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3835"
+          "Value": "6004"
         },
         {
           "Name": "Content-Type",
@@ -15577,11 +15577,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"RDOaSChA04LlCzQqbstr2Q3ou3YzMNQAyNmcB04psJY=\""
+          "Value": "\"uuf2WikNpKE2dSqsRJ1lq/qZVg9ltPKyjDIIHbgoFtI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 14:52:06 GMT"
+          "Value": "Thu, 20 Feb 2025 21:41:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15599,7 +15599,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-RDOaSChA04LlCzQqbstr2Q3ou3YzMNQAyNmcB04psJY="
+          "Value": "sha256-uuf2WikNpKE2dSqsRJ1lq/qZVg9ltPKyjDIIHbgoFtI="
         }
       ]
     },

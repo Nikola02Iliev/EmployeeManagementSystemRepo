@@ -2,7 +2,7 @@
 
 namespace SharedLibrary.DTOs
 {
-    public class Register : AccountBase
+    public class RegisterDTO : AccountBaseDTO
     {
         [Required]
         [MinLength(5)]
